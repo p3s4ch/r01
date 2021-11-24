@@ -34,4 +34,4 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-[![CICD](https://github.com/p3s4ch/r01/actions/workflows/blank2.yml/badge.svg)](https://github.com/p3s4ch/r01/actions/workflows/blank2.yml)
+          [![CICD](https://github.com/p3s4ch/r01/actions/workflows/blank2.yml/badge.svg)](https://github.com/p3s4ch/r01/actions/workflows/blank2.yml)
