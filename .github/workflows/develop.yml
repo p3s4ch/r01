@@ -34,4 +34,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,
-          echo "This workflow is triggered only on branch $ENV."
+          echo "This workflow is triggered only on branch ${ENV}."
