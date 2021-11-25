@@ -6,9 +6,9 @@ on: push
 
 env:
         MY_VAR: Hi there! My name is
-        FIRST_NAME: Mona
-        MIDDLE_NAME: The
-        LAST_NAME: Octocat
+        FIRST_NAME: Planet
+        MIDDLE_NAME: Earth
+        LAST_NAME: Safe
         
 jobs:
   job-01:
